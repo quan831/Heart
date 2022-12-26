@@ -8,3 +8,4 @@
 - Heart 6: https://raw.githubusercontent.com/quan831/Import/main/Heart-6.jpg
 - Heart 7: https://raw.githubusercontent.com/quan831/Import/main/Heart-7.jpg
 - Heart 8: https://raw.githubusercontent.com/quan831/Import/main/Heart-8.jpg
+- Heart ver Python: https://raw.githubusercontent.com/quan831/Import/main/Heart-ver-Python.jpg
