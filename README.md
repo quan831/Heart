@@ -1,6 +1,6 @@
 # OwO Hello everyone OwO
 # Preview:
-- Heart 1: https://raw.githubusercontent.com/quan831/Import/main/Heart-1.jpg
+- Heart 1: ![alt](https://raw.githubusercontent.com/quan831/Import/main/Heart-1.jpg)
 - Heart 2: https://raw.githubusercontent.com/quan831/Import/main/Heart-2.jpg
 - Heart 3: https://raw.githubusercontent.com/quan831/Import/main/Heart-3.jpg
 - Heart 4: https://raw.githubusercontent.com/quan831/Import/main/Heart-4.jpg
